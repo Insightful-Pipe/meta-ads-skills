@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-meta-ads",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "23 free Claude skills for Meta (Facebook and Instagram) Ads: account audits, audiences, campaign structure, creative tests and ranking, Advantage+, budgets, scaling and monthly reports. Changes only after you confirm.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-meta-ads",
+      "description": "23 free Claude skills for Meta (Facebook and Instagram) Ads: account audits, audiences, campaign structure, creative tests and ranking, Advantage+, budgets, scaling and monthly reports. Changes only after you confirm.",
+      "source": "./"
+    }
+  ]
+}
